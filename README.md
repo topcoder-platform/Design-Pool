@@ -27,7 +27,7 @@ If a fix is rejected, a comment, and possibly a screenshot, will be added to the
 
 # Payment amounts
 
-Each ticket in GitHub has a dollar value.  That is the amount you will be paid when the ticket is completed, merged, and verified by the copilot.  Note that there is still a 30 day waiting period as the payment will be treated as a regular TopCoder challenge payment.
+Each ticket in GitHub has a dollar value.  That is the amount you will be paid when the ticket is completed, merged, and verified by the copilot.  Note that there is still a 30 day waiting period as the payment will be treated as a regular Topcoder challenge payment.
 
 ### Task Size Matrix
 
